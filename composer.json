@@ -1,0 +1,8 @@
+{
+    "name": "diamanka/diamankamvc",
+    "description": "Framwork for PHP",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "smarty/smarty": "~3.1"
+    }
+}
